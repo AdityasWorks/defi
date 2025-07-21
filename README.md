@@ -1,4 +1,3 @@
-md
 # DeFi Project
 
 This repository contains a DeFi project built with Next.js and Solidity. It includes a smart contract component for blockchain interactions, a frontend interface for user interaction, and utilizes TypeScript for development.
